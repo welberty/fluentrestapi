@@ -30,7 +30,6 @@ func main() {
 		Init().
 		AddHealthCheck().
 		Get("/Test", h).
-		Get("/Test2", h).
 		Get("/Ola/{Name}", hn).
 		Start(9000, http.Server{})
 	if err != nil {
