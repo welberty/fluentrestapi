@@ -2,7 +2,7 @@
 Este é um projeto destinado a prática da linguagem GO.
 Tem como proposta o desenvolvimento de um pacote que visa facilitar a implementação de uma Web API Rest através do padrão [FluentInterface](https://martinfowler.com/bliki/FluentInterface.html)
 
-## Exemplo de como utulizar
+## Exemplo de como utilizar
 ```
 package main
 
